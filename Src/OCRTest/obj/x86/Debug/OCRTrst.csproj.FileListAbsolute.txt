@@ -1,0 +1,9 @@
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\bin\x86\Debug\OCRTrst.exe.config
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\bin\x86\Debug\OCRTrst.exe
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\bin\x86\Debug\OCRTrst.pdb
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\bin\x86\Debug\Extraction.OCR.dll
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\bin\x86\Debug\Microsoft.Office.Interop.OneNote.dll
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\bin\x86\Debug\Extraction.OCR.pdb
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\obj\x86\Debug\OCRTrst.csprojResolveAssemblyReference.cache
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\obj\x86\Debug\OCRTrst.exe
+C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\obj\x86\Debug\OCRTrst.pdb

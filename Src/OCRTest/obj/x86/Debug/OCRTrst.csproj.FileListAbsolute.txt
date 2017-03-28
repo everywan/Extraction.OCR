@@ -7,3 +7,11 @@ C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\bin\x8
 C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\obj\x86\Debug\OCRTrst.csprojResolveAssemblyReference.cache
 C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\obj\x86\Debug\OCRTrst.exe
 C:\Users\zhensheng\OneDrive\MyDirection\GitHub\Extraction.OCR\Src\OCRTrst\obj\x86\Debug\OCRTrst.pdb
+D:\GitHub\Extraction.OCR\Src\OCRTest\bin\x86\Debug\OCRTrst.exe.config
+D:\GitHub\Extraction.OCR\Src\OCRTest\bin\x86\Debug\OCRTrst.exe
+D:\GitHub\Extraction.OCR\Src\OCRTest\bin\x86\Debug\OCRTrst.pdb
+D:\GitHub\Extraction.OCR\Src\OCRTest\bin\x86\Debug\Extraction.OCR.dll
+D:\GitHub\Extraction.OCR\Src\OCRTest\bin\x86\Debug\Extraction.OCR.pdb
+D:\GitHub\Extraction.OCR\Src\OCRTest\obj\x86\Debug\OCRTrst.csprojResolveAssemblyReference.cache
+D:\GitHub\Extraction.OCR\Src\OCRTest\obj\x86\Debug\OCRTrst.exe
+D:\GitHub\Extraction.OCR\Src\OCRTest\obj\x86\Debug\OCRTrst.pdb
